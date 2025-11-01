@@ -44,6 +44,7 @@ namespace MakeenFitnessClass.Models.fito
                 $"\n with trainer : {this.trainer.Name} ";
             return result;
         }
+        
 
 
 

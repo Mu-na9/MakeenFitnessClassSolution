@@ -36,7 +36,7 @@ namespace MakeenFitnessClass.Models.Users
             return $"Name : {this.Name} \n" +
                    $" Email : {this.Email} \n" +
                    $" Phone Number : {this.PhoneNumber}";
-        }
+        } 
 
 
     }
